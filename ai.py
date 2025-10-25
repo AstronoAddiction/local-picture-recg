@@ -8,7 +8,7 @@ image_path = 'mountain.jpg'
 
 question = '这张图片里有什么？'
 
-test = 'this is change 1'
+test = 'this is change 2'
 
 response = MultiModalConversation.call(
     model='qwen-vl-plus',
